@@ -1,3 +1,3 @@
-# LedgerLane
+# SipSense
 
-Website for LedgerLane, online MBA finance and accounting tutoring. Built for the Digital Marketing assignment and deployed on Vercel.
+Website for SipSense, a hypothetical smart water bottle, built for a Digital Marketing assignment and deployed on Vercel.
