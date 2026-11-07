@@ -21,7 +21,7 @@ nav a{margin-left:18px;color:var(--muted);text-decoration:none;font-weight:500}n
 .checks{list-style:none;padding:0}.checks li{padding-left:28px;position:relative;margin:8px 0}.checks li:before{content:"\2713";position:absolute;left:0;color:var(--brand);font-weight:800}
 .quote{background:var(--deep);color:#e0f2fe;border-radius:16px;padding:28px;font-size:1.2rem}.quote span{opacity:.7;font-size:.95rem}
 .price{font-weight:800;color:var(--brand);font-size:1.3rem}.price s{color:#94a3b8;font-weight:400;font-size:1rem;margin-left:6px}
-.sw{height:120px;border-radius:12px;margin-bottom:14px}.note{color:var(--muted);font-size:.9rem}
+.sw{height:170px;border-radius:12px;margin-bottom:14px;background:linear-gradient(180deg,#fff,#dff3fa);display:flex;align-items:center;justify-content:center}.note{color:var(--muted);font-size:.9rem}
 .spec{width:100%;border-collapse:collapse;margin-bottom:20px}.spec th,.spec td{padding:10px;border-bottom:1px solid #e3edf3;text-align:left}.spec th{width:40%;color:var(--muted)}
 .prose{max-width:760px;padding-top:32px;padding-bottom:40px}
 .cta{background:linear-gradient(135deg,#cffafe,#e0f2fe);padding:52px 0;text-align:center;margin-top:20px}
